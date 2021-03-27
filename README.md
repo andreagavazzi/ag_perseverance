@@ -37,6 +37,3 @@ Curiosity is planned to be a a [ROS](http://ros.org) robotics platform.
 **ROS Melodic**: [a ground-up rewrite of a ROS-centric stack](https://github.com/srmainwaring/curio) by Rhys Mainwaring (srmainwaring) is extensive and powerful. Going beyond responding to `/cmd_vel` commands, it also calculates `/odom` by interpolating LX-16A position encoder ~270 degree feedback into full 360 degrees. Plus visualizing rover state in RViz, and files to put a digital Curiosity in Gazebo robot simulation environment.
 
 
-![GitHub Logo](/images/nasa_logo.jpg)
-<img src="https://github.com/andreagavazzi/Curiosity/images/nasa_logo.jpg" width="100">
-
