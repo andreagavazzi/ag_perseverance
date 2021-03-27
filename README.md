@@ -2,7 +2,7 @@
 
 ![GitHub Logo](/images/banner.jpg)
 
-Curiosity is a motorized model of Mars rovers Curiosity and Perseverance. It faithfully reproduces
+Curiosity is my version of a motorized model of Mars rovers Curiosity (and Perseverance) . It faithfully reproduces
 the [Rocker-Bogie suspension kinematics](https://en.wikipedia.org/wiki/Rocker-bogie) of real
 rovers and it is intended to be an hardware platform for future software projects in autonomous
 operation.
@@ -10,8 +10,8 @@ operation.
 All information for building Curiosity is free and public open source for anyone to build their
 own.
 
-The project was inspired by [JPL's Open Source Rover project](https://opensourcerover.jpl.nasa.gov). 
-Most of the differences were motivated by a desire to improve the design, moreover JPL's rover is designed for education, to be assembled by a school team and give a robust foundation for structured curriculum. Curiosity is more suited for individual hobbyists like myself who are happy to tinker and willing to make some trade-offs.
+The project was inspired by [JPL's Open Source Rover project](https://opensourcerover.jpl.nasa.gov) and from the many resources I could find on the web. My starting point was to review and redesign in [Shaper3D](https://www.shapr3d.com) the stl files by Roger-random's Sawppy rover. 
+Most of the differences were motivated by a desire to improve the design and fit the project to my requirements (mainly research in IA and autonomous navigation). Moreover JPL's rover is designed for education, to be assembled by a school team and give a robust foundation for structured curriculum. Curiosity is more suited for individual hobbyists like myself who are happy to tinker and willing to develop furthermore.
 
 * Motorization: Instead of using gearmotors with encoders managed by RoboClaw motor controllers,
 moving the wheels will be done with serial bus servo motors. I went for Dynamixel AX-18A I took from a previous hexapod project. 
