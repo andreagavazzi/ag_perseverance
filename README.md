@@ -1,6 +1,6 @@
 # Curiosity
 
-![GitHub Logo](/images/banner.jpg)
+![GitHub Logo](/images/follow_curiosity.jpg)
 
 Curiosity is my version of a motorized model of Mars rovers Curiosity (and Perseverance) . It faithfully reproduces
 the [Rocker-Bogie suspension kinematics](https://en.wikipedia.org/wiki/Rocker-bogie) of real
