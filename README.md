@@ -10,21 +10,18 @@ operation.
 All information for building Curiosity is free and public open source for anyone to build their
 own.
 
-The project was inspired by [JPL's Open Source Rover project](https://opensourcerover.jpl.nasa.gov) and from the many resources I could find on the web. My starting point was to review and redesign in [Shaper3D](https://www.shapr3d.com) the stl files by Roger-random's Sawppy rover. 
+The project was inspired by [JPL's Open Source Rover project](https://opensourcerover.jpl.nasa.gov) and from the many resources I could find on the web. My starting point was to review and redesign in [Shaper3D](https://www.shapr3d.com) the stl files by [Roger-random's Sawppy rover](https://github.com/Roger-random/Sawppy_Rover/tree/main/STL). 
 Most of the differences were motivated by a desire to improve the design and fit the project to my requirements (mainly research in IA and autonomous navigation). Moreover JPL's rover is designed for education, to be assembled by a school team and give a robust foundation for structured curriculum. Curiosity is more suited for individual hobbyists like myself who are happy to tinker and willing to develop furthermore.
 
-* Motorization: Instead of using gearmotors with encoders managed by RoboClaw motor controllers,
-moving the wheels will be done with serial bus servo motors. I went for Dynamixel AX-18A I took from a previous hexapod project. 
-* Construction Method: Instead of using the [Actobotics construction system](https://www.servocity.com/actobotics),
-Curiosity will be built from aluminum extrusions connected by 3D-printed plastic parts.
+* Motorization: Instead of using gearmotors with encoders managed by RoboClaw motor controllers, moving the wheels is done with serial bus servo motors. I went for Dynamixel AX-18A I took from a previous hexapod project. 
+* Construction Method: Instead of using the [Actobotics construction system](https://www.servocity.com/actobotics), Curiosity will be built from aluminum extrusions connected by 3D-printed plastic parts.
 
 # Development Status
 
 **Curiosity version 1.0** 
 
 This milestone includes a motorized rolling chassis that is mechanically functional.
-The remaining areas (electrical, software, etc.) are still very immature, just barely enough
-to validate mechanical chassis function. 
+The remaining areas (electrical, software, etc.) are still very immature, just barely enough to validate mechanical chassis function. 
 
 **Curiosity version 1.1**
 
