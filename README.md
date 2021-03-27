@@ -26,10 +26,10 @@ The remaining areas (electrical, software, etc.) are still very immature, just b
 **Curiosity version 1.1**
 
 Curiosity will receive only minor mechanical changes for this milestone, expecially on the back of the rover
+ 
+<img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/ag_logo.jpg" alt="ag_logo" width="200"/>
 
 # IA and controllers
-  
-<img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/ag_logo.jpg" alt="ag_logo" width="200"/>
   
 Curiosity is planned to be a a [ROS](http://ros.org) robotics platform.
 
