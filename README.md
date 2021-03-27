@@ -17,6 +17,7 @@ Most of the differences were motivated by a desire to improve the design and fit
 * Construction Method: Instead of using the [Actobotics construction system](https://www.servocity.com/actobotics), Curiosity will be built from aluminum extrusions connected by 3D-printed plastic parts.
 
 # Development Status
+<img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/nasa_logo.jpg" alt="ag_logo" width="400"/>
 
 **Curiosity version 1.0** 
 
