@@ -5,7 +5,7 @@
 Curiosity is my version of a motorized model of Mars rovers Curiosity (and Perseverance) . It faithfully reproduces
 the [Rocker-Bogie suspension kinematics](https://en.wikipedia.org/wiki/Rocker-bogie) of real
 rovers and it is intended to be an hardware platform for future software projects in autonomous
-operation.
+operations and IA development.
 
 All information for building Curiosity is free and public open source for anyone to build their
 own.
@@ -32,6 +32,8 @@ Curiosity will receive only minor mechanical changes for this milestone, expecia
 <img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/ag_logo.jpg" alt="ag_logo" width="200"/>
   
 Curiosity is planned to be a a [ROS](http://ros.org) robotics platform.
+
+**NVIDIA Jetson Xavier AGX**: 
 
 **ROS Melodic**: [a ground-up rewrite of a ROS-centric stack](https://github.com/srmainwaring/curio) by Rhys Mainwaring (srmainwaring) is extensive and powerful. Going beyond responding to `/cmd_vel` commands, it also calculates `/odom` by interpolating the AX-18A position encoder ~270 degree feedback into full 360 degrees. Plus visualizing rover state in RViz, and files to put a digital Curiosity in Gazebo robot simulation environment.
 
