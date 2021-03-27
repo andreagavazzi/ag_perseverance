@@ -1,7 +1,7 @@
 # Parts List
 
 ## Printed Parts
-To Build Sawppy the Rover, you will need to print the following parts. Quantities and notes are listed.
+To build Curiosity, you will need to print the following parts. Quantities and notes are listed.
 
 You will need about 3kg of filament to print all the parts.
 
