@@ -31,7 +31,7 @@ Curiosity will receive only minor mechanical changes for this milestone, expecia
 # IA, Sensors and Controllers
 <img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/ag_logo.jpg" alt="ag_logo" width="200"/>
   
-Curiosity is planned to be a a [ROS](http://ros.org) robotics platform.
+Curiosity is planned to be a a [ROS](http://ros.org) robotics platform running on Linux Ubuntu.
 
 **ROS Melodic**: [a ground-up rewrite of a ROS-centric stack](https://github.com/srmainwaring/curio) by Rhys Mainwaring (srmainwaring) is extensive and powerful. Going beyond responding to `/cmd_vel` commands, it also calculates `/odom` by interpolating the AX-18A position encoder ~270 degree feedback into full 360 degrees. Plus visualizing rover state in RViz, and files to put a digital Curiosity in Gazebo robot simulation environment.
 
