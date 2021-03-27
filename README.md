@@ -35,11 +35,13 @@ Curiosity is planned to be a a [ROS](http://ros.org) robotics platform.
 
 **ROS Melodic**: [a ground-up rewrite of a ROS-centric stack](https://github.com/srmainwaring/curio) by Rhys Mainwaring (srmainwaring) is extensive and powerful. Going beyond responding to `/cmd_vel` commands, it also calculates `/odom` by interpolating the AX-18A position encoder ~270 degree feedback into full 360 degrees. Plus visualizing rover state in RViz, and files to put a digital Curiosity in Gazebo robot simulation environment.
 
+Additional material can be found in my [Onedrive shared folder]()
+
 # Pictures
 
-| Design  | Build  | Explore | Shared |
-| ------------- | ------------- | ------------- | ------------- |
-| [<img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/ico_astronomy.png" alt="ag_logo" width="80"/>](https://github.com/andreagavazzi/Curiosity/blob/main/images/design/design.md) | [<img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/ico_mars-rover.png" alt="ag_logo" width="80"/>](https://github.com/andreagavazzi/Curiosity/blob/main/images/build/build.md) | [<img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/ico_extraterrestrial.png" alt="ag_logo" width="80"/>](https://github.com/andreagavazzi/Curiosity/blob/main/images/explore/explore.md)  | [<img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/ico_download.png" alt="ag_logo" width="80"/>]()  |
+| Design  | Build  | Explore |
+| ------------- | ------------- | ------------- |
+| [<img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/ico_astronomy.png" alt="ag_logo" width="80"/>](https://github.com/andreagavazzi/Curiosity/blob/main/images/design/design.md) | [<img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/ico_mars-rover.png" alt="ag_logo" width="80"/>](https://github.com/andreagavazzi/Curiosity/blob/main/images/build/build.md) | [<img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/ico_extraterrestrial.png" alt="ag_logo" width="80"/>](https://github.com/andreagavazzi/Curiosity/blob/main/images/explore/explore.md)  |
 
 
 
