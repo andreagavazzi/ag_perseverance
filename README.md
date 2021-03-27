@@ -1,5 +1,9 @@
 # Curiosity
 
+<p align="center">
+  <src="https://github.com/andreagavazzi/Curiosity/blob/main/images/banner.jpg">
+</p>
+
 ![GitHub Logo](/images/banner.jpg)
 
 Curiosity is my version of a motorized model of Mars rovers Curiosity (and Perseverance) . It faithfully reproduces
