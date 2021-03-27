@@ -27,7 +27,7 @@ The remaining areas (electrical, software, etc.) are still very immature, just b
 
 Curiosity will receive only minor mechanical changes for this milestone, expecially on the back of the rover
 
-#IA and controllers
+# IA and controllers
   
 <img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/ag_logo.jpg" alt="ag_logo" width="200"/>
   
