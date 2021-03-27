@@ -38,5 +38,5 @@ Curiosity is planned to be a a [ROS](http://ros.org) robotics platform.
 
 
 ![GitHub Logo](/images/nasa_logo.jpg)
-<img src="https://github.com/andreagavazzi/Curiosity/images/nasa_logo" width="100">
+<img src="https://github.com/andreagavazzi/Curiosity/images/nasa_logo.jpg" width="100">
 
