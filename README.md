@@ -39,7 +39,7 @@ Curiosity is planned to be a a [ROS](http://ros.org) robotics platform.
 
 | Design  | Build  | Explore |
 | ------------- | ------------- | ------------- |
-| [<img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/ico_astronomy.png" alt="ag_logo" width="80"/>](https://github.com/andreagavazzi/Curiosity/blob/main/images/build/build.md)  | <img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/ico_mars-rover.png" alt="ag_logo" width="80"/>  | <img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/ico_extraterrestrial.png" alt="ag_logo" width="80"/>  |
+| [<img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/ico_astronomy.png" alt="ag_logo" width="80"/>](https://github.com/andreagavazzi/Curiosity/blob/main/images/design/design.md) | [<img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/ico_mars-rover.png" alt="ag_logo" width="80"/>](https://github.com/andreagavazzi/Curiosity/blob/main/images/build/build.md) | [<img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/ico_extraterrestrial.png" alt="ag_logo" width="80"/>](https://github.com/andreagavazzi/Curiosity/blob/main/images/explore/explore.md)  |
 
 
 
