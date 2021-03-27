@@ -1,6 +1,8 @@
 ![GitHub Logo](/images/curiosity_logo.jpg)
 
-**Curiosity** is my version of a motorized model of Mars rovers Curiosity (and Perseverance) . It faithfully reproduces
+# Background
+
+Curiosity is my version of a motorized model of Mars rovers Curiosity (and Perseverance) . It faithfully reproduces
 the [Rocker-Bogie suspension kinematics](https://en.wikipedia.org/wiki/Rocker-bogie) of real
 rovers and it is intended to be an hardware platform for future software projects in autonomous
 operation.
@@ -30,5 +32,7 @@ Curiosity will receive only minor mechanical changes for this milestone, expecia
 Curiosity is planned to be a a [ROS](http://ros.org) robotics platform.
 
 **ROS Melodic**: [a ground-up rewrite of a ROS-centric stack](https://github.com/srmainwaring/curio) by Rhys Mainwaring (srmainwaring) is extensive and powerful. Going beyond responding to `/cmd_vel` commands, it also calculates `/odom` by interpolating LX-16A position encoder ~270 degree feedback into full 360 degrees. Plus visualizing rover state in RViz, and files to put a digital Curiosity in Gazebo robot simulation environment.
+
+![GitHub Logo](/images/ag_logo.jpg)
 
 
