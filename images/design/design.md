@@ -1,2 +1,2 @@
 
-[Back to homepage](https://github.com/andreagavazzi/Curiosity)
+[Back to Homepage](https://github.com/andreagavazzi/Curiosity)
