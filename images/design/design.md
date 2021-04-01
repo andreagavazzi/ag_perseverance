@@ -22,6 +22,6 @@ Some parts require mirroring to fit the left and the right side of the rover.
 | FixedKnuckle\_r  | right | 1    |  | Wheel              |       | 6    |
 
 **Front suspension**
-<img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/design/front_suspension.jpg" alt="Front Suspension"/>
+<img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/design/ipad.jpg" alt="Front Suspension" width="500"/>
 
 [Back to Homepage](https://github.com/andreagavazzi/Curiosity)
