@@ -9,7 +9,7 @@
 
 **Parts v1.0**
 <img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/design/parts.jpg" alt="Parts"/>
-Some parts require mirroring to fit the left and the right side of the rover. 
+Some parts require mirroring to fit the left and the right side of the rover. For the wheels you are free to decide, for aesthetic's sake three wheels should be mirored, but on the real rover they aren't.
 
 | Part name        | Side  | Q.ty |  | Part name          | Side  | Q.ty |
 | ---------------- | ----- | ---- | --- | ------------------ | ----- | ---- |
