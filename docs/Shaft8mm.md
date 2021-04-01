@@ -1,46 +1,4 @@
-# 8mm metal shafts
 
-Sawppy the Rover uses 8mm shafts anywhere there is a rotary motion that whose load is borne by 608 type bearings.
-* Wheel axle drive shaft for all 6 wheels.
-* Steering shaft for 4 corner motors.
-* 2 Suspension bogie pivot point, one on each side.
-* 2 Suspension rocker pivot point, one on each side.
-
-Below are instructions on how to build your own shafts.
-
-## Shaft stock selection
-
-Any metal shaft should work, as long as it has the appropriate 8mm diameter to fit snugly within 608 type bearings used.
-As these shafts are not spun to high speeds, carry high torque, or mesh with other machinery, Sawppy does not require
-high precision industrial machinery shafts. (Example: unnecessarily expensive high precision shafts from
-[Misumi](https://us.misumi-ec.com/vona2/detail/110300086920/?ProductCode=SFMR8-300)
-and [McMaster-Carr](https://www.mcmaster.com/1265k64)) Low precision round bar stock are a fraction of the cost and will
-suffice. The worst that would happen with low precision shafts is that wheels may be a little wobblier.
-
-Aluminum shafts (example: McMaster-Carr [catalog #4634t34](https://www.mcmaster.com/4634t34)) are inexpensive and strong
-enough for normal rover operation. If the rover will be carrying additional equipment, or taken to public events with
-exposure to young children, consider upgrading to steel shafts for extra strength. (Example: McMaster-Carr
-[catalog #8920k26](https://www.mcmaster.com/8920k26) is used in the rover seen in assembly pictures.)
-
-## Retaining clips
-
-The shafts are kept in place by small retaining clips. (Sometimes called e-clips.) The precise size of these clips
-are not critical for rover function, they just need to be small enough to grip on a groove in a 8mm diameter shaft
-and large enough to hold against a 608 bearing. The clips used in the assembly pictures are McMaster-Carr
-[catalog #97431a310](https://www.mcmaster.com/#97431a310) designed for 5/16-inch shafts.
-As we will be cutting our own grooves for these retaining clips (see next item)
-we can adjust groove dimension to suit physical attributes like clip thickness.
-
-## Grooves for retaining clips
-
-The retaining clips will need grooves cut into the shafts. Ideally this can be done on a metalworking lathe, but
-it can be done with a drill and a high speed motor ("Dremel") tool in a [poor-man's lathe](https://newscrewdriver.com/2018/05/18/poor-mans-lathe-cutting-a-steering-shaft-with-drill-and-dremel/).
-And there are many options in between, limited only by your resourcesfulness and creativity.
-
-## Detents for set screws
-
-The driving and steering shafts will need a flat detent cut into them for set screws. If precise metalworking
-tools are not available, they can be cut by [clamping the shaft in a vise and use a metal file](https://newscrewdriver.com/2018/06/20/improve-motor-shafts-with-larger-flatter-detents-and-apply-loctite-to-set-screws/).
 
 ## Dimensions
 
