@@ -1,7 +1,7 @@
 
 [Back to Homepage](https://github.com/andreagavazzi/Curiosity)
 
-**Parts**
+**Parts v1.0**
 <img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/design/parts.jpg" alt="Parts"/>
 Some parts require mirroring to fit the left and the right side of the rover. 
 
