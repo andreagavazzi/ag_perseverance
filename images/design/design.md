@@ -6,7 +6,7 @@
 Some parts require mirroring to fit the left and the right side of the rover. 
 
 | Part name        | Side  | Q.ty |  | Part name          | Side  | Q.ty |
-| ---------------- | ----- | ---- |  | ------------------ | ----- | ---- |
+| ---------------- | ----- | ---- | --- | ------------------ | ----- | ---- |
 | AX18Bracket      |       | 10   |  | FixedKnuckle\_l    | left  | 1    |
 | AX18Coupler      |       | 10   |  | FrontCorner\_r     | right | 1    |
 | BodyCorner       |       | 4    |  | FrontCorner\_l     | left  | 1    |
