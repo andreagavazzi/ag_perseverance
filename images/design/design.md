@@ -20,8 +20,9 @@ Some parts require mirroring to fit the left and the right side of the rover.
 | DiffPlate\_l     | left  | 2    |  | SteeringKnuckle\_l | left  | 2    |
 | DiffUpper        |       | 1    |  | WheelHub           |       | 6    |
 | FixedKnuckle\_r  | right | 1    |  | Wheel              |       | 6    |
+  
+**Front suspension**  
 
-**Front suspension**
 <img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/design/ipad.jpg" alt="Front Suspension" width="500"/>
-
+  
 [Back to Homepage](https://github.com/andreagavazzi/Curiosity)
