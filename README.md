@@ -1,4 +1,4 @@
-![Curiosity](/images/curiosity_logo.jpg)
+![Curiosity](/images/perseverance_logo.jpg)
 
 # Background
 
