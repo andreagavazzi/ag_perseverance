@@ -22,7 +22,7 @@ Most of the differences were motivated by a desire to improve the design and fit
 **Perseverance version 1.0** 
 
 - [ ] This milestone includes a basic rolling chassis that is mechanically functional.
-- [ ] Aestethyc add-ons on the chassis (reactor, attachemnts and linkages, ...)
+- [ ] Aestetic add-ons on the chassis (reactor, attachments and linkages, ...)
 - [ ] LX Servo
  
 **Perseverance version 1.1**  
