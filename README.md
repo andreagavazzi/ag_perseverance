@@ -33,7 +33,7 @@ Most of the differences were motivated by a desire to improve the design and fit
 
 **Perseverance version 2.0**  
 - [ ] Dynamixel and OpenCM
-
+  
 # IA, Sensors and Controllers
 <img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/ag_logo.jpg" alt="ag_logo" width="200"/>
   
