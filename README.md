@@ -16,17 +16,23 @@ Most of the differences were motivated by a desire to improve the design and fit
 * Motorization: Instead of using gearmotors with encoders managed by RoboClaw motor controllers, moving the wheels is done with serial bus servo motors. I went for Dynamixel AX-18A I took from a previous hexapod project. 
 * Construction Method: Instead of using the [Actobotics construction system](https://www.servocity.com/actobotics), Perseverance will be built from aluminum extrusions connected by 3D-printed plastic parts.
 
-# Development Status
+# Development Status and Milestones
 <img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/nasa_logo.jpg" alt="ag_logo" width="600"/>
-
+ 
 **Perseverance version 1.0** 
 
-This milestone includes a motorized rolling chassis that is mechanically functional.
-The remaining areas (electrical, software, etc.) are still very immature, just barely enough to validate mechanical chassis function. 
+- [ ] This milestone includes a basic rolling chassis that is mechanically functional.
+- [ ] Aestethyc add-ons on the chassis (reactor, attachemnts and linkages, ...)
+- [ ] LX Servo
+ 
+**Perseverance version 1.1**  
+- [ ] Complete redesign of the differential
+ 
+**Perseverance version 1.2**  
+- [ ] Redesign of wheels
 
-**Perseverance version 1.1**
-
-Perseverance will receive only minor mechanical changes for this milestone, expecially on the back of the rover
+**Perseverance version 2.0**  
+- [ ] Dynamixel and OpenCM
 
 # IA, Sensors and Controllers
 <img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/ag_logo.jpg" alt="ag_logo" width="200"/>
