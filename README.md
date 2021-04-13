@@ -23,7 +23,7 @@ Most of the differences were motivated by a desire to improve the design and fit
 
 - [ ] This milestone includes a basic rolling chassis that is mechanically functional.
 - [ ] Aestetic add-ons on the chassis (reactor, attachments and linkages, ...)
-- [ ] LX Servo
+- [ ] LX Servos + Arduino controller
  
 **Perseverance version 1.1**  
 - [ ] Complete redesign of the differential
