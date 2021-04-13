@@ -21,8 +21,9 @@ Most of the differences were motivated by a desire to improve the design and fit
  
 **Perseverance version 1.0** 
 
-- [ ] This milestone includes a basic rolling chassis that is mechanically functional.
+- [x] This milestone includes a basic rolling chassis that is mechanically functional
 - [ ] Aestetic add-ons on the chassis (reactor, attachments and linkages, ...)
+- [ ] Camera turret (webcamto be defined)
 - [ ] LX Servos + Arduino controller
  
 **Perseverance version 1.1**  
@@ -32,7 +33,8 @@ Most of the differences were motivated by a desire to improve the design and fit
 - [ ] Redesign of wheels
 
 **Perseverance version 2.0**  
-- [ ] Dynamixel and OpenCM
+- [x] New Dynamixel brackets
+- [ ] Dynamixel AX18A and OpenCM
   
 # IA, Sensors and Controllers
 <img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/ag_logo.jpg" alt="ag_logo" width="200"/>
