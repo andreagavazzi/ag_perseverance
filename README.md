@@ -2,7 +2,7 @@
 
 # Background
 
-Perseverance is my version of a motorized model of Mars rovers Perseverance (and Curiosity) . It faithfully reproduces
+Perseverance is my version of a motorized model of Mars rovers Perseverance. It faithfully reproduces
 the [Rocker-Bogie suspension kinematics](https://en.wikipedia.org/wiki/Rocker-bogie) of real
 rovers and it is intended to be an hardware platform for future software projects in autonomous
 operations and IA development.
@@ -10,10 +10,10 @@ operations and IA development.
 All information for building Perseverance is free and public open source for anyone to build their
 own.
 
-The project was inspired by [JPL's Open Source Rover project](https://opensourcerover.jpl.nasa.gov) and from the many resources I could find on the web. My starting point was to review and redesign in [Shapr3D](https://www.shapr3d.com) the stl files by [Roger-random's Sawppy rover](https://github.com/Roger-random/Sawppy_Rover/tree/main/STL). 
-Most of the differences were motivated by a desire to improve the design and fit the project to my requirements (mainly research in IA and autonomous navigation). Moreover JPL's rover is designed for education, to be assembled by a school team and give a robust foundation for structured curriculum. Perseverance is more suited for individual hobbyists like myself who are happy to tinker and willing to develop furthermore.
+The project was somehow inspired by [JPL's Open Source Rover project](https://opensourcerover.jpl.nasa.gov) and from the many resources I could find on the web. Unfortunately I did not fully like the design, too far from the original, so I decided to model one by myself. I used [Shapr3D](https://www.shapr3d.com) on my iPad pro, great piece of software still growing.
+Most of the differences were motivated by a desire to fit the project to my requirements (mainly research in IA and autonomous navigation). Fitting Dynamixel servos was quite a challange and there is still room for improvements.
 
-* Motorization: Instead of using gearmotors with encoders managed by RoboClaw motor controllers, moving the wheels is done with serial bus servo motors. I went for Dynamixel AX-18A I took from a previous hexapod project. 
+* Motorization: Moving the wheels is done with serial bus servo motors. I went for Dynamixel AX-18A I took from a previous hexapod project. 
 * Construction Method: Instead of using the [Actobotics construction system](https://www.servocity.com/actobotics), Perseverance will be built from aluminum extrusions connected by 3D-printed plastic parts.
 
 # Development Status and Milestones
@@ -21,20 +21,17 @@ Most of the differences were motivated by a desire to improve the design and fit
  
 **Perseverance version 1.0** 
 
-- [x] This milestone includes a basic rolling chassis that is mechanically functional
+- [ ] This milestone includes a basic rolling chassis that is mechanically functional
 - [ ] Aestetic add-ons on the chassis (reactor, attachments and linkages, ...)
 - [ ] Camera turret (webcamto be defined)
-- [ ] LX Servos + Arduino controller
+- [ ] Dynamixel + OpenCR controller
  
 **Perseverance version 1.1**  
 - [ ] Complete redesign of the differential
  
 **Perseverance version 1.2**  
-- [ ] Redesign of wheels
+- [x] Redesign of wheels
 
-**Perseverance version 2.0**  
-- [x] New Dynamixel brackets
-- [ ] Dynamixel AX18A and OpenCM
   
 # IA, Sensors and Controllers
 <img src="https://github.com/andreagavazzi/Curiosity/blob/main/images/ag_logo.jpg" alt="ag_logo" width="200"/>
